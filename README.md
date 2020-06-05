@@ -4,7 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b87354ad-03ac-4db5-895c-3e36e6f6cd1f/deploy-status)](https://app.netlify.com/sites/zen-franklin-d307c4/deploys)
 <!-- badges: end -->
 
-<img src="/figures/jolly_postman_scaled.png" align="center" />
+<img src="/figures/jolly_postman_scaled.png" height="500px" align="center" />
 
 
 
